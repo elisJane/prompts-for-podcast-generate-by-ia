@@ -56,4 +56,4 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ---
 
-⌨️ com 💜 por [Eliseia Lorenz](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Eliseia Lorenz](https://github.com/elisJane)
