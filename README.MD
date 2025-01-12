@@ -55,6 +55,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 ## 📚 Resultado
-- [Podcast]
+- [Podcast] (prompts-for-podcast-generate-by-ia/output/Café com Requisitos Ep.1.mp4)
 
 ⌨️ com 💜 por [Eliseia Lorenz](https://github.com/elisJane)
