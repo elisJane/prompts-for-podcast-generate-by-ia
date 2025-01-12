@@ -56,6 +56,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Resultado
 
-<a href="https://github.com/elisJane/prompts-for-podcast-generate-by-ia/output/Café com Requisitos Ep.1.mp4" title="View PDF now">📕Clique aqui para ouvir</a>
+<a href="https://github.com/elisJane/prompts-for-podcast-generate-by-ia/output/Café com Requisitos Ep.1.mp4" >📕Clique aqui para ouvir</a>
 
 ⌨️ com 💜 por [Eliseia Lorenz](https://github.com/elisJane)
